@@ -319,7 +319,7 @@ section {
 }
 
 #section-1 {
-  background-image: url(/pet-project/image/section_1.jpg);
+  background-image: url(/pet-project/pet-project/image/section_1.jpg);
   background-attachment: fixed;
   background-size: cover;
   color: #51524f;
